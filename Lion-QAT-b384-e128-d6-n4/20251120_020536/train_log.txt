@@ -1,0 +1,3 @@
+embed_dim=128, depth=6, num_heads=4, patch_size=4
+train_batch=384
+Epoch 01 | Train loss 1.9354 acc 27.55% | Test loss 1.7288 acc 36.10%
