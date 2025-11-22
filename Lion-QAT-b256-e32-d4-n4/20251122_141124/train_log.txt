@@ -1,7 +1,0 @@
-embed_dim=32, depth=4, num_heads=4, patch_size=4
-train_batch=256
-Epoch 01 | Train loss 1.9876 acc 25.78% | Test loss 1.8219 acc 32.18%
-Epoch 02 | Train loss 1.7440 acc 34.82% | Test loss 1.6491 acc 39.46%
-Epoch 03 | Train loss 1.6063 acc 40.87% | Test loss 1.5069 acc 45.86%
-Epoch 04 | Train loss 1.4947 acc 45.80% | Test loss 1.3663 acc 51.20%
-Epoch 05 | Train loss 1.4114 acc 48.67% | Test loss 1.3374 acc 51.95%
