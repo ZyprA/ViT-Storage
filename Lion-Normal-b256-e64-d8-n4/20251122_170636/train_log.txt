@@ -1,0 +1,32 @@
+embed_dim=64, depth=8, num_heads=4, patch_size=4
+train_batch=256
+Epoch 01 | Train loss 1.9156 acc 28.00% | Test loss 1.7272 acc 35.54%
+Epoch 02 | Train loss 1.6690 acc 37.83% | Test loss 1.5647 acc 43.53%
+Epoch 03 | Train loss 1.5030 acc 44.79% | Test loss 1.3468 acc 50.69%
+Epoch 04 | Train loss 1.3916 acc 49.30% | Test loss 1.2552 acc 54.46%
+Epoch 05 | Train loss 1.3110 acc 52.62% | Test loss 1.2256 acc 56.11%
+Epoch 06 | Train loss 1.2471 acc 55.09% | Test loss 1.1435 acc 58.88%
+Epoch 07 | Train loss 1.1769 acc 57.75% | Test loss 1.0978 acc 60.95%
+Epoch 08 | Train loss 1.1278 acc 59.64% | Test loss 1.0573 acc 62.14%
+Epoch 09 | Train loss 1.0744 acc 61.52% | Test loss 0.9999 acc 64.00%
+Epoch 10 | Train loss 1.0325 acc 62.85% | Test loss 0.9478 acc 66.31%
+Epoch 11 | Train loss 0.9903 acc 64.77% | Test loss 0.9337 acc 66.40%
+Epoch 12 | Train loss 0.9598 acc 65.92% | Test loss 0.9108 acc 67.23%
+Epoch 13 | Train loss 0.9230 acc 67.18% | Test loss 0.8480 acc 70.25%
+Epoch 14 | Train loss 0.8876 acc 68.52% | Test loss 0.8601 acc 69.18%
+Epoch 15 | Train loss 0.8679 acc 69.30% | Test loss 0.8267 acc 70.99%
+Epoch 16 | Train loss 0.8383 acc 70.32% | Test loss 0.8092 acc 71.40%
+Epoch 17 | Train loss 0.8089 acc 71.60% | Test loss 0.8017 acc 71.69%
+Epoch 18 | Train loss 0.7797 acc 72.32% | Test loss 0.7721 acc 73.32%
+Epoch 19 | Train loss 0.7621 acc 73.25% | Test loss 0.7443 acc 73.98%
+Epoch 20 | Train loss 0.7373 acc 73.95% | Test loss 0.7205 acc 74.48%
+Epoch 21 | Train loss 0.7195 acc 74.74% | Test loss 0.7531 acc 73.64%
+Epoch 22 | Train loss 0.6998 acc 75.49% | Test loss 0.7283 acc 75.04%
+Epoch 23 | Train loss 0.6843 acc 75.85% | Test loss 0.7003 acc 75.85%
+Epoch 24 | Train loss 0.6661 acc 76.49% | Test loss 0.7006 acc 76.16%
+Epoch 25 | Train loss 0.6512 acc 77.01% | Test loss 0.6967 acc 76.02%
+Epoch 26 | Train loss 0.6318 acc 77.74% | Test loss 0.6558 acc 77.41%
+Epoch 27 | Train loss 0.6203 acc 78.17% | Test loss 0.6514 acc 77.32%
+Epoch 28 | Train loss 0.6056 acc 78.52% | Test loss 0.6379 acc 77.93%
+Epoch 29 | Train loss 0.5896 acc 79.08% | Test loss 0.6475 acc 77.72%
+Epoch 30 | Train loss 0.5782 acc 79.53% | Test loss 0.6514 acc 77.92%
